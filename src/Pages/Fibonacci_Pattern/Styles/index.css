@@ -1,0 +1,11 @@
+.FibonacciPattern{
+    display: flex;
+}
+.FibonacciPattern .FibonacciDiv{
+    flex-grow: 0;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
